@@ -2,6 +2,7 @@
 # Ankit Gupta Portfolio V4
 
 A modern, fast, and responsive portfolio website themed like a Linux terminal.
+![GitHub](https://img.shields.io/badge/license_-DTEmpire-red)
 
 ## 🚀 Live Demo
 [https://ankitgupta.com.np/](https://ankitgupta.com.np/)
