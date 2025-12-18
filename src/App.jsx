@@ -180,7 +180,6 @@ Cybersecurity Enthusiast | Ethical Hacker | Developer
             <div className="flex space-x-4">
               <a
   href="https://raw.githubusercontent.com/hyperdargo/ankitgupta-portfolio-v3/main/cv/AnkitGupta-CV.pdf"
-  download="AnkitGupta-CV.pdf"
   target="_blank"
   rel="noopener noreferrer"
 >
