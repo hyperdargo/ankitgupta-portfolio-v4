@@ -56,7 +56,7 @@ function App() {
 🎯 Cybersecurity Enthusiast | Ethical Hacker | Full-Stack Developer | AI Integration Specialist
 
 📍 Location: Kathmandu, Nepal
-📧 Email: guptaa39@uni.coventry.ac.uk
+📧 Email: email.ankitgupta.com.np
 🌐 Portfolio: ankitgupta.com.np
 🔗 LinkedIn: linkedin.com/in/dargotamber
 
@@ -177,7 +177,7 @@ function App() {
     
     contact: `📬 Contact Information:
 
-📧 Email: guptaa39@uni.coventry.ac.uk
+📧 Email: email.ankitgupta.com.np
 🌐 Portfolio: ankitgupta.com.np
 🔗 LinkedIn: linkedin.com/in/dargotamber
 💻 GitHub: github.com/hyperdargo
