@@ -189,16 +189,7 @@ Cybersecurity Enthusiast | Ethical Hacker | Developer
               <a href="https://github.com/hyperdargo" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faGithub} className="text-2xl hover:text-green-400 transition-colors" />
               </a>
-              <a href="https://www.instagram.com/_ankit_shah_dt_/" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faInstagram} className="text-2xl hover:text-green-400 transition-colors" />
-              </a>
               
-              <a href="https://discord.com/invite/JYNCNAxPx7" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faDiscord} className="text-2xl hover:text-green-400 transition-colors" />
-              </a>
-              <a href="https://panel.ankitgupta.com.np/" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faServer} className="text-2xl hover:text-green-400 transition-colors" />
-              </a>
              
             </div>
           </div>
