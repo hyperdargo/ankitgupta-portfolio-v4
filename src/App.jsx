@@ -177,41 +177,7 @@ Cybersecurity Enthusiast | Ethical Hacker | Developer
                 repeat={Infinity}
               />
             </motion.div>
-            <div className="flex space-x-4">
-  <a
-    href="https://raw.githubusercontent.com/hyperdargo/ankitgupta-portfolio-v4/main/src/CV.pdf"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <FontAwesomeIcon
-      icon={faFileAlt}
-      className="text-2xl hover:text-green-400 transition-colors"
-    />
-  </a>
-
-  <a
-    href="https://github.com/hyperdargo"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <FontAwesomeIcon
-      icon={faGithub}
-      className="text-2xl hover:text-green-400 transition-colors"
-    />
-  </a>
-
-  <a
-    href="https://docs.ankitgupta.com.np/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <FontAwesomeIcon
-      icon={faBook}
-      className="text-2xl hover:text-green-400 transition-colors"
-    />
-  </a>
-</div>
-
+        <div className="flex space-x-4"> <a href="https://raw.githubusercontent.com/hyperdargo/ankitgupta-portfolio-v4/main/src/CV.pdf" target="_blank" rel="noopener noreferrer" > <FontAwesomeIcon icon={faFileAlt} className="text-2xl hover:text-green-400 transition-colors" /> </a> <a href="https://github.com/hyperdargo" target="_blank" rel="noopener noreferrer"> <FontAwesomeIcon icon={faGithub} className="text-2xl hover:text-green-400 transition-colors" /> </a> </div>
           </div>
         </div>
       </header>
